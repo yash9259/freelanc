@@ -45,7 +45,7 @@ const Portfolio = () => {
 
       <section id="about" className="py-5 bg-light text-dark border-top">
         <div className="container d-md-flex align-items-center">
-          <motion.img src="yash.jpg" alt="Yash Thakkar" className="rounded-circle shadow-lg mb-4 mb-md-0 me-md-5" whileHover={{ scale: 1.1 }} />
+          <motion.img src="" alt="Yash Thakkar" className="rounded-circle shadow-lg mb-4 mb-md-0 me-md-5" whileHover={{ scale: 1.1 }} />
           <div>
             <h2>About Me</h2>
             <p>I’m Yash Thakkar, a freelance developer passionate about creating seamless digital experiences with modern designs. I specialize in Odoo, .NET, and Android app development, delivering top-quality solutions for businesses.</p>
